@@ -1,0 +1,2 @@
+# Private-CDN
+Private Storage
